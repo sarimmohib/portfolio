@@ -2,6 +2,9 @@
 
 A single-file portfolio site. No build step, no dependencies, no framework.
 
+**Live site:** https://sarimmohib.github.io/portfolio/  
+**Repository:** https://github.com/sarimmohib/portfolio
+
 ## View it
 
 Open `index.html` in a browser, or serve the folder locally:
